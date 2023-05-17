@@ -1,0 +1,10 @@
+.menu {
+    display: flex;
+    gap: 1.25rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
